@@ -1,0 +1,30 @@
+* {
+  font-family: arial;
+  color: white;
+}
+
+div {
+  border-style: solid;
+  margin: 2px;
+  padding: 4px;
+}
+
+#content {
+  background-color: black;
+}
+
+#headerBox {
+  background: linear-gradient(to bottom, #000000 0%, #ff0000 100%);
+}
+
+#linksBox {
+  background: linear-gradient(to bottom, #000000 0%, #ff0000 100%);
+}
+
+#parasBox {
+  background-color: powderblue;
+}
+
+.para {
+  background: linear-gradient(to bottom, #000000 0%, #ff0000 100%);
+}
